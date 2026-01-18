@@ -1,0 +1,30 @@
+# PyCharm
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Environments
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Notebooks (opsiyonel)
+.ipynb_checkpoints/
+
+# Outputs / logs
+*.log
+*.csv
+*.txt
+*_results.*
+
+
